@@ -35,7 +35,7 @@
 
 ## Contáctame en LinkedIn o Twitter: 
   
-  [![LinkedIn: Camila Yánez](https://img.shields.io/badge/LinkedIn--blueviolet?style=for-the-badge&logo=LinkedIn&link=http:www.linkedin.com/in/camila-y%C3%A1nez)](https://www.linkedin.com/in/camila-y%C3%A1nez/)
-  [![Twitter: @Camii_Yanez_](https://img.shields.io/badge/Twitter--blueviolet?style=for-the-badge&logo=twitter&link=https://twitter.com/Camii_Yanez_)](https://twitter.com/Camii_Yanez_)
+  [![LinkedIn: Camila Yánez](https://img.shields.io/badge/LinkedIn--6923AA?style=for-the-badge&logo=LinkedIn&link=http:www.linkedin.com/in/camila-y%C3%A1nez)](https://www.linkedin.com/in/camila-y%C3%A1nez/)
+  [![Twitter: @Camii_Yanez_](https://img.shields.io/badge/Twitter--6923AA?style=for-the-badge&logo=twitter&link=https://twitter.com/Camii_Yanez_)](https://twitter.com/Camii_Yanez_)
 
 </div>
