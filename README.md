@@ -4,7 +4,8 @@
 <p style="text-align: justify">Puedes decirme Cami Yánez, soy graduada de ingeniería electrónica en computación y actualmente me dedico al desarrollo web, específicamente al <b>Frontend</b><img src="https://img.icons8.com/nolan/64/like.png"/ width=22></p>
 <p style="text-align: justify">Soy una persona muy curiosa, me encanta aprender cosas nuevas cada día, y me alegra que estes aquí para que puedas ver algunos de los proyectos en los que he trabajado <img src="https://img.icons8.com/nolan/64/christmas-star.png" width=25/></p>
 
-<section align="center">
+<div align="center">
+  
 <img width=150 src="https://i.pinimg.com/originals/f2/ce/c9/f2cec98f06e8f66ff0bcfb2ffdb413eb.jpg">
 <br>  
   
@@ -37,4 +38,4 @@
   [![LinkedIn: Camila Yánez](https://img.shields.io/badge/LinkedIn--blueviolet?style=for-the-badge&logo=LinkedIn&link=http:www.linkedin.com/in/camila-y%C3%A1nez)](https://www.linkedin.com/in/camila-y%C3%A1nez/)
   [![Twitter: @Camii_Yanez_](https://img.shields.io/badge/Twitter--blueviolet?style=for-the-badge&logo=twitter&link=https://twitter.com/Camii_Yanez_)](https://twitter.com/Camii_Yanez_)
 
-</section>
+</div>
