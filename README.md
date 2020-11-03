@@ -7,7 +7,7 @@
 ## Contáctame en LinkedIn o Twitter: 
 <div align="center">
   
-  [![LinkedIn: Camila Yánez](https://img.shields.io/badge/LinkedIn--blueviolet?style=?style=for-the-badge&logo=LinkedIn&link=http:www.linkedin.com/in/camila-y%C3%A1nez)](www.linkedin.com/in/camila-yánez)
+  [![LinkedIn: Camila Yánez](https://img.shields.io/badge/LinkedIn--blueviolet?style=?style=for-the-badge&logo=LinkedIn&link=http:www.linkedin.com/in/camila-y%C3%A1nez)](https://www.linkedin.com/in/camila-y%C3%A1nez/)
   [![LinkedIn: Camila Yánez](https://img.shields.io/badge/Twitter--blueviolet?style=?style=for-the-badge&logo=Twitter&link=https://twitter.com/Camii_Yanez_)](https://twitter.com/Camii_Yanez_)
 
 </div>
